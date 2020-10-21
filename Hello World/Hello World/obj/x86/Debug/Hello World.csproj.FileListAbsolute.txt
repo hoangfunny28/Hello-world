@@ -1,0 +1,45 @@
+D:\Hello World\Hello World\bin\x86\Debug\App.xbf
+D:\Hello World\Hello World\bin\x86\Debug\MainPage.xbf
+D:\Hello World\Hello World\bin\x86\Debug\Hello World.xr.xml
+D:\Hello World\Hello World\bin\x86\Debug\Hello World.exe
+D:\Hello World\Hello World\bin\x86\Debug\Hello World.pdb
+D:\Hello World\Hello World\bin\x86\Debug\resources.pri
+D:\Hello World\Hello World\bin\x86\Debug\AppxManifest.xml
+D:\Hello World\Hello World\bin\x86\Debug\Core\AppxManifest.xml
+D:\Hello World\Hello World\bin\x86\Debug\Core\Hello World.exe
+D:\Hello World\Hello World\bin\x86\Debug\Hello World.build.appxrecipe
+D:\Hello World\Hello World\bin\x86\Debug\System.Runtime.dll
+D:\Hello World\Hello World\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Hello World\Hello World\obj\x86\Debug\Hello World.csprojAssemblyReference.cache
+D:\Hello World\Hello World\obj\x86\Debug\App.g.i.cs
+D:\Hello World\Hello World\obj\x86\Debug\App.g.cs
+D:\Hello World\Hello World\obj\x86\Debug\MainPage.g.i.cs
+D:\Hello World\Hello World\obj\x86\Debug\MainPage.g.cs
+D:\Hello World\Hello World\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Hello World\Hello World\obj\x86\Debug\App.xaml
+D:\Hello World\Hello World\obj\x86\Debug\MainPage.xaml
+D:\Hello World\Hello World\obj\x86\Debug\App.xbf
+D:\Hello World\Hello World\obj\x86\Debug\MainPage.xbf
+D:\Hello World\Hello World\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Hello World\Hello World\obj\x86\Debug\Hello World.csproj.CoreCompileInputs.cache
+D:\Hello World\Hello World\obj\x86\Debug\Hello World.csproj.CopyComplete
+D:\Hello World\Hello World\obj\x86\Debug\Hello World.exe
+D:\Hello World\Hello World\obj\x86\Debug\Hello World.pdb
+D:\Hello World\Hello World\obj\x86\Debug\ResourceHandlingTask.state
+D:\Hello World\Hello World\obj\x86\Debug\priconfig.xml
+D:\Hello World\Hello World\obj\x86\Debug\priconfig.xml.intermediate
+D:\Hello World\Hello World\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Hello World\Hello World\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Hello World\Hello World\obj\x86\Debug\filtered.layout.resfiles
+D:\Hello World\Hello World\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Hello World\Hello World\obj\x86\Debug\excluded.layout.resfiles
+D:\Hello World\Hello World\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Hello World\Hello World\obj\x86\Debug\resources.resfiles
+D:\Hello World\Hello World\obj\x86\Debug\resources.resfiles.intermediate
+D:\Hello World\Hello World\obj\x86\Debug\pri.resfiles
+D:\Hello World\Hello World\obj\x86\Debug\pri.resfiles.intermediate
+D:\Hello World\Hello World\obj\x86\Debug\qualifiers.txt
+D:\Hello World\Hello World\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Hello World\Hello World\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Hello World\Hello World\obj\x86\Debug\ProjectArchitectures.txt
+D:\Hello World\Hello World\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json
